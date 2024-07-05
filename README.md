@@ -3,8 +3,22 @@
 <h2>🕸️ Web Development Projects:</h2>
 
   - [IT Inventory Managment Tool](https://github.com/kdpx/IT-Iventory-Managment-Tool)
+  - [Everglades Financial Portal](https://github.com/kdpx/Everglades-Financial-Portal)
+
+<h2>👨🏻‍💻 Class Work:</h2>
+
+  - Computer Vision
+    - [Otsu Method](https://github.com/kdpx/Otsu-Method)
+    - [Hough Transform](https://github.com/kdpx/Hough-Transform)
+  - Web Application Development
+    - [SEO Project](https://github.com/kdpx/SEO-Project)
+    - [Gainsville](https://github.com/kdpx/Gainsville)
+  
      
 <h2>🎮 Game Development Projects:</h2>
+
+  - [Who Wants to be a Minimalist](https://github.com/Kdpx/Who-Wants-to-be-a-Minimalist)
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
