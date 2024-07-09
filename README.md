@@ -2,7 +2,7 @@
 
 <h2>🕸️ Web Development Projects:</h2>
 
-  - [IT Inventory Managment Tool](https://github.com/kdpx/IT-Iventory-Managment-Tool)
+  - [IT Inventory Managment Tool](https://github.com/kdpx/IT-Inventory-Managment-Tool)
   - [Everglades Financial Portal](https://github.com/kdpx/Everglades-Financial-Portal)
 
 <h2>👨🏻‍💻 Class Work:</h2>
