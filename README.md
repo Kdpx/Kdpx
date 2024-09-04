@@ -10,9 +10,6 @@
   - Computer Vision
     - [Otsu Method](https://github.com/kdpx/Otsu-Method)
     - [Hough Transform](https://github.com/kdpx/Hough-Transform)
-  - Web Application Development
-    - [SEO Project](https://github.com/kdpx/SEO-Project)
-    - [Gainsville](https://github.com/kdpx/Gainsville)
   
      
 <h2>🎮 Game Development Projects:</h2>
