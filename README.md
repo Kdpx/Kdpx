@@ -3,6 +3,8 @@
 <h2>🕸️ Web Development Projects:</h2>
 
   - [IT Inventory Managment Tool](https://github.com/kdpx/IT-Inventory-Managment-Tool)
+  - [Safitek Landing Page](https://github.com/kdpx/Safitek-Landing-Page)
+  - [Blackstar Gaming Landing Page](https://github.com/kdpx/Blackstar-Gaming-Landing-Page)
 
 <h2>👨🏻‍💻 Class Work:</h2>
 
