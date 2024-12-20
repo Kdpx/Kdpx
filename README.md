@@ -5,6 +5,7 @@
   - [IT Inventory Managment Tool](https://github.com/kdpx/IT-Inventory-Managment-Tool)
   - [Safitek Landing Page](https://github.com/kdpx/Safitek-Landing-Page)
   - [Blackstar Gaming Landing Page](https://github.com/kdpx/Blackstar-Gaming-Landing-Page)
+  - [Kreyol Swift Lab](https://github.com/kdpx/kreyolswiftlab)
 
 <h2>👨🏻‍💻 Class Work:</h2>
 
